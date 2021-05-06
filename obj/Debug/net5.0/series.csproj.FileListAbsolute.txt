@@ -1,0 +1,16 @@
+/home/thais/Desktop/cursos/takeBlip_net_c/series/obj/Debug/net5.0/series.csprojAssemblyReference.cache
+/home/thais/Desktop/cursos/takeBlip_net_c/series/obj/Debug/net5.0/series.GeneratedMSBuildEditorConfig.editorconfig
+/home/thais/Desktop/cursos/takeBlip_net_c/series/obj/Debug/net5.0/series.AssemblyInfoInputs.cache
+/home/thais/Desktop/cursos/takeBlip_net_c/series/obj/Debug/net5.0/series.AssemblyInfo.cs
+/home/thais/Desktop/cursos/takeBlip_net_c/series/obj/Debug/net5.0/series.csproj.CoreCompileInputs.cache
+/home/thais/Desktop/cursos/takeBlip_net_c/series/bin/Debug/net5.0/series
+/home/thais/Desktop/cursos/takeBlip_net_c/series/bin/Debug/net5.0/series.deps.json
+/home/thais/Desktop/cursos/takeBlip_net_c/series/bin/Debug/net5.0/series.runtimeconfig.json
+/home/thais/Desktop/cursos/takeBlip_net_c/series/bin/Debug/net5.0/series.runtimeconfig.dev.json
+/home/thais/Desktop/cursos/takeBlip_net_c/series/bin/Debug/net5.0/series.dll
+/home/thais/Desktop/cursos/takeBlip_net_c/series/bin/Debug/net5.0/ref/series.dll
+/home/thais/Desktop/cursos/takeBlip_net_c/series/bin/Debug/net5.0/series.pdb
+/home/thais/Desktop/cursos/takeBlip_net_c/series/obj/Debug/net5.0/series.dll
+/home/thais/Desktop/cursos/takeBlip_net_c/series/obj/Debug/net5.0/ref/series.dll
+/home/thais/Desktop/cursos/takeBlip_net_c/series/obj/Debug/net5.0/series.pdb
+/home/thais/Desktop/cursos/takeBlip_net_c/series/obj/Debug/net5.0/series.genruntimeconfig.cache
